@@ -1,0 +1,21 @@
+@PaymentService.Api_HostAddress = http://localhost:5000
+
+POST {{PaymentService.Api_HostAddress}}/payments/process
+Content-Type: application/json
+Accept: application/json
+
+{
+  "customerId": "00000000-0000-0000-0000-000000000001",
+  "paymentMethodId": "00000000-0000-0000-0000-000000000002",
+  "amount": 49.99,
+  "currency": "USD",
+  "gateway": "Stripe",
+  "requestKey": "sample-request-key"
+}
+
+###
+
+GET {{PaymentService.Api_HostAddress}}/payments/00000000-0000-0000-0000-000000000001/status
+Accept: application/json
+
+###
