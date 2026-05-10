@@ -1,0 +1,16 @@
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/bin/Debug/net9.0/PaymentService.Application.deps.json
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/bin/Debug/net9.0/PaymentService.Application.dll
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/bin/Debug/net9.0/PaymentService.Application.pdb
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/bin/Debug/net9.0/PaymentService.Domain.dll
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/bin/Debug/net9.0/PaymentService.Domain.pdb
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/obj/Debug/net9.0/PaymentService.Application.csproj.AssemblyReference.cache
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/obj/Debug/net9.0/PaymentService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/obj/Debug/net9.0/PaymentService.Application.AssemblyInfoInputs.cache
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/obj/Debug/net9.0/PaymentService.Application.AssemblyInfo.cs
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/obj/Debug/net9.0/PaymentService.Application.csproj.CoreCompileInputs.cache
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/obj/Debug/net9.0/PaymentService.Application.sourcelink.json
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/obj/Debug/net9.0/PaymentS.03DFC2EE.Up2Date
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/obj/Debug/net9.0/PaymentService.Application.dll
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/obj/Debug/net9.0/refint/PaymentService.Application.dll
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/obj/Debug/net9.0/PaymentService.Application.pdb
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/obj/Debug/net9.0/ref/PaymentService.Application.dll

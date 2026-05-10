@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NJMauBd8GNw=",
+  "success": true,
+  "projectFilePath": "/home/kolib/Development-projects/Payment-Service/src/PaymentService.Application/PaymentService.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/kolib/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512",
+    "/home/kolib/.nuget/packages/microsoft.extensions.caching.abstractions/10.0.7/microsoft.extensions.caching.abstractions.10.0.7.nupkg.sha512",
+    "/home/kolib/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.7/microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512",
+    "/home/kolib/.nuget/packages/microsoft.extensions.primitives/10.0.7/microsoft.extensions.primitives.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
