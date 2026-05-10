@@ -1,0 +1,12 @@
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Domain/bin/Any CPU/Debug/net9.0/PaymentService.Domain.deps.json
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Domain/bin/Any CPU/Debug/net9.0/PaymentService.Domain.dll
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Domain/bin/Any CPU/Debug/net9.0/PaymentService.Domain.pdb
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Domain/obj/Any CPU/Debug/net9.0/PaymentService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Domain/obj/Any CPU/Debug/net9.0/PaymentService.Domain.AssemblyInfoInputs.cache
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Domain/obj/Any CPU/Debug/net9.0/PaymentService.Domain.AssemblyInfo.cs
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Domain/obj/Any CPU/Debug/net9.0/PaymentService.Domain.csproj.CoreCompileInputs.cache
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Domain/obj/Any CPU/Debug/net9.0/PaymentService.Domain.sourcelink.json
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Domain/obj/Any CPU/Debug/net9.0/PaymentService.Domain.dll
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Domain/obj/Any CPU/Debug/net9.0/refint/PaymentService.Domain.dll
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Domain/obj/Any CPU/Debug/net9.0/PaymentService.Domain.pdb
+/home/kolib/Development-projects/Payment-Service/src/PaymentService.Domain/obj/Any CPU/Debug/net9.0/ref/PaymentService.Domain.dll
