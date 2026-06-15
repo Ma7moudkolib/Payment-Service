@@ -35,7 +35,7 @@ public static class DependencyInjection
         string connectionString)
     {
         services.AddDbContext<ApplicationDbContext>(options =>
-            options.UseNpgsql(connectionString));
+            options.UseSqlServer(connectionString));
 
         services.AddScoped<IUnitOfWork>(provider => provider.GetRequiredService<ApplicationDbContext>());
         services.AddScoped<IPaymentRepository, PaymentRepository>();
